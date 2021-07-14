@@ -1,0 +1,1 @@
+order_prefixes = ['buy', 'get', 'order', 'orders', 'ordering', 'procure', 'procuring', 'purchase', 'purchases']
